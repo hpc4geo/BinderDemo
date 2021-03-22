@@ -7,10 +7,13 @@ dependencies:
   - numpy=1.20.1
   - scipy=1.6.1
   - matplotlib=3.3.4
-  - pandas
-  - scikit-learn
-  - geopandas
-  - geoplot
-  - cartopy
-
+  - pandas=1.2.3
+  - scikit-learn=0.24.1
+  - geopandas=0.9.0
+  - geoplot=0.4.1
+  - cartopy=0.18.0
+  - seaborn=0.11.1
+  - imageio
+  - lmfit
+  - pyqt
 
