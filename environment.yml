@@ -13,7 +13,7 @@ dependencies:
   - geoplot=0.4.1
   - cartopy=0.18.0
   - seaborn=0.11.1
-  - imageio
-  - lmfit
-  - pyqt
-
+  - imageio=2.9.0
+  - lmfit=1.0.2
+  - pyqt=5.12.3
+  - xlwt=1.3.0
