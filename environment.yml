@@ -3,7 +3,7 @@ channeks:
   - conda-forge
 dependencies:
   - python=3.8
-  - numpy
-  - pip
-  - pip:
-    - matplotlib
+  - future
+  - numpy-1.19.0
+  - scipy
+  - matplotlib
