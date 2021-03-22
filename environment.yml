@@ -4,6 +4,6 @@ channeks:
 dependencies:
   - python=3.8
   - future
-  - numpy-1.19.0
+  - numpy-1.20.0
   - scipy
   - matplotlib
