@@ -8,5 +8,3 @@ dependencies:
   - scipy=1.2.1
   - matplotlib=2.2.5
   - pandas=0.24.2
-  - pip:
-    - pip install mtspec
