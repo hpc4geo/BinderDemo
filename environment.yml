@@ -3,11 +3,11 @@ channeks:
   - conda-forge
 dependencies:
   - python=2.7
-  - future
-  - numpy
-  - scipy
-  - matplotlib
-  - pandas
-  - pip
+  - future=0.18.2
+  - numpy=1.16.6
+  - scipy=1.2.1
+  - matplotlib=2.2.5
+  - pandas=0.24.2
+  - pip=20.3
   - pip:
     - pip install mtspec
