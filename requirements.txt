@@ -1,2 +1,4 @@
+libgfortran
 numpy
 matplotlib
+pandas
