@@ -1,5 +1,0 @@
-name: sio113-2021-python-py2
-channeks:
-  - conda-forge
-dependencies:
-  - python=2.7
