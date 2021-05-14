@@ -1,3 +1,8 @@
 #!/bin/bash
-echo $PATH
-which gcc
+echo $PATH > postBuild.log
+which gcc >> postBuild.log
+gcc --version >> postBuild.log
+which gfortran >> postBuild.log
+gfortran --version >> postBuild.log
+which c++ >> postBuild.log
+c++ --version >> postBuild.log
