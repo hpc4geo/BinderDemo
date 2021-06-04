@@ -1,7 +1,0 @@
-name: sio113-2021-python2
-channels:
-  - conda-forge
-dependencies:
-  - python=2.7
-  - numpy
-  - python-hdf4
