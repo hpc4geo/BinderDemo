@@ -1,2 +1,0 @@
-gcc-6
-gfortran-6

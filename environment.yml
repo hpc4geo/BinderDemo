@@ -1,0 +1,8 @@
+name: sio113-2021-python
+channeks:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - future=0.18.2
+  - numpy
+  - pyhdf
